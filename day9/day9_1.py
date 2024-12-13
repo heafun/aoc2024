@@ -1,6 +1,3 @@
-import copy
-
-
 file = open("day9/input1.txt")
 line = list(map(lambda x: int(x), file.readline().strip()))
 file.close()
