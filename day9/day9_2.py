@@ -1,4 +1,3 @@
-import copy
 from functools import reduce
 import operator
 
